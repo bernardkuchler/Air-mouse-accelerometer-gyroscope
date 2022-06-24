@@ -1,6 +1,8 @@
 # Air-mouse-accelerometer-gyroscope
 Air mouse using STM32F407G-DISC1 and STEVAL-MKI197V1, which has a LSM6DSOX module and is used for its accelerometer and gyroscope. The project was created in the STM32CubeIDE.
 
+Video of usage: https://youtu.be/6l0q2wX-H5k
+
 ### Physical connections between STM32F407G-DISC1 and STEVAL-MKI197V1:
 ```
 STEVAL-MKI197V1 pins:      |       STM32F407G-DISC1 pins:
